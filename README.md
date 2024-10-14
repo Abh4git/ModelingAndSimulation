@@ -40,3 +40,16 @@ The diagram explores the concept of **Simulation as Experimentation** and highli
    - Although mathematical models are used in simulations, they may struggle with **dynamic, transient effects** and tend to operate using **average values** rather than detailed dynamic responses.
 
 The overall theme emphasizes how simulations provide a safe, cost-effective, and time-efficient alternative to direct experimentation, particularly in complex or hazardous situations.
+
+The diagram outlines **Fundamental Simulation Techniques** and categorizes them into two main types:
+
+1. **Continuous Simulation**:
+   - A formal simulation approach that models systems where changes occur continuously over time.
+   
+2. **Discrete Simulation**:
+   - Focuses on systems where changes occur at specific points in time.
+   - **Time-based**: Updates are made at regular time intervals.
+   - **Discrete-event-based**: Updates occur only when specific events happen.
+
+The content provides a basic classification of simulation techniques, highlighting the difference between continuous changes and event-driven changes in simulation models.
+
