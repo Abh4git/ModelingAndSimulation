@@ -21,3 +21,22 @@ The diagram discusses the topic of **Models, Experiments, and Computation** with
    - **Logical Model**: Focuses on system dynamics and processes.
 
 The emphasis is on how computer simulations and various models are used in different industries to improve decision-making, forecast outcomes, and optimize systems.
+
+The diagram explores the concept of **Simulation as Experimentation** and highlights the following key points:
+
+1. **Simulation Models**:
+   - Inputs go into a simulation model to produce outputs, simulating likely effects of various potential scenarios.
+   - Example: Simulating the effect of increasing interest rates by 3%.
+
+2. **Purpose of Simulation**:
+   - To **realize complex and time-consuming experiments** in a controlled environment.
+   - Enables conducting experiments that would be **costly or risky** in real systems.
+
+3. **Simulation vs. Direct Experimentation**:
+   - **Cost and Time**: Simulations save costs and time by allowing the replication of experiments over time, potentially weeks, months, or years.
+   - Simulations ensure **safety** and enable testing under **extreme conditions**.
+
+4. **Mathematical Models**:
+   - Although mathematical models are used in simulations, they may struggle with **dynamic, transient effects** and tend to operate using **average values** rather than detailed dynamic responses.
+
+The overall theme emphasizes how simulations provide a safe, cost-effective, and time-efficient alternative to direct experimentation, particularly in complex or hazardous situations.
