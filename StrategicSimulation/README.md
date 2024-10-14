@@ -18,7 +18,26 @@ Strategic simulation is especially effective in technology-driven sectors where 
 1. **Scenario Building**: One of the first steps in simulation is scenario building. This involves creating hypothetical environments based on variables such as economic conditions, technological shifts, and competitive moves. Scenarios are tailored to the organization’s strategic goals and external factors.
    
 2. **Data Inputs**: Simulations are fueled by accurate data. This includes market data, customer insights, financial reports, and emerging technology trends. Utilizing advanced data analytics ensures that simulations reflect real-world dynamics, improving reliability.
-   
+
+The diagram outlines key elements of **Strategic Simulation**:
+
+1. **Types of Simulations**:
+   - Power Plant Simulation
+   - Substation Simulation
+   - Process Simulation
+
+2. **Common Framework**: There is a common framework being referenced that applies to all simulation types.
+
+3. **IDEAS Project**: Mention of the IDEAS Project, likely tied to the Business Unit (BU).
+
+4. **Scenario Creation**:
+   - A scenario library is available for simulation purposes ("Scenario Library 4 Play").
+
+5. **Industrial Domains**:
+   - There are references to **mining** and **ACE (Automation Control Environment)** within the context of industrial demand.
+
+The focus appears to be on a structured approach to simulation, incorporating various industrial applications and projects.
+
 3. **Models and Algorithms**: Algorithms and models, such as machine learning and Bayesian frameworks, play a crucial role in strategic simulations. These models analyze patterns, project outcomes, and suggest the best course of action.
 
 4. **Technology Integration**: Tools such as text mining, clustering, and predictive analytics can be incorporated to handle large volumes of data. Additionally, technology platforms can visualize simulation results, making it easier for decision-makers to interpret complex data.
