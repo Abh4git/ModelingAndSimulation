@@ -1,4 +1,4 @@
-# ModelingAndSimulation
+# Modeling And Simulation
 The diagram discusses the topic of **Models, Experiments, and Computation** with a focus on **Computer Simulation** and its applications. Key points include:
 
 1. **Computer Simulation**:
