@@ -104,3 +104,25 @@ The diagram delves into **Continuous Change** in simulations, focusing on how va
    - Simulations that use continuous change models require adjustments to handle the complexity of real-world systems.
 
 The content emphasizes how continuous changes are represented in digital simulations by approximating them through discrete steps and explains various approaches used to model dynamic, stochastic systems.
+
+The diagram explores the concept of **Discrete and Continuous Change** in simulations, focusing on how variables in a system can change. Key points include:
+
+1. **Ways Variables Can Change**:
+   - **Continuously at any point in time**: Variables update without pause (e.g., temperature change).
+   - **Continuously but only at discrete time points**: Variables change regularly but only at certain intervals.
+   - **Discretely at any point in time**: State changes happen randomly, triggered by specific events.
+   - **Discretely at only discrete points in time**: State changes occur only at certain predetermined points (e.g., scheduled updates).
+
+2. **Example of Discrete Change**:
+   - A **train journey** between two stations is used to illustrate discrete change:
+     - The train stops at a station.
+     - The doors open.
+     - Passengers board or alight.
+     - The train departs for the next station.
+   - These events occur at specific moments in time and trigger state changes in the system (train status).
+
+3. **Discrete Variables**:
+   - The system's state changes only at the points where discrete variables update (e.g., train stop, door open).
+
+The content emphasizes the distinction between continuous and discrete changes, with discrete changes being event-driven and occurring at specific points, while continuous changes happen over time.
+
